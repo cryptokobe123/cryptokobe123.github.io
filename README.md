@@ -5,6 +5,6 @@ my first webpage
 </head>
 <body>
   <p>hello world</p>
-  <p> this is my very first webpage on <strong>github</strong></p>
+  <p> thiss is my very first webpage on <strong>github</strong></p>
 </body>
 </html>
